@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1578497745 source:c:\users\rares\desktop\proiectpoo3\main.cpp
+	<iostream>
+	<typeinfo>
+	<fstream>
+	<vector>
+	<list>
+	<unordered_set>
+	<unordered_map>
+	"Pizzerie.h"
+	<tuple>
+
+1578504366 c:\users\rares\desktop\proiectpoo3\pizzerie.h
+	<iostream>
+	<typeinfo>
+	<fstream>
+	<vector>
+	<list>
+	<unordered_set>
+	<unordered_map>
+
+1578493815 source:c:\users\rares\desktop\proiectpoo3\pizzerie.cpp
+	"Pizzerie.h"
+	<iostream>
+	<typeinfo>
+	<fstream>
+	<vector>
+	<list>
+	<unordered_set>
+	<unordered_map>
+
